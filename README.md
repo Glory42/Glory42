@@ -34,5 +34,5 @@
 <div align="center">
  
   
-  <a href="#"><img src="https://streak-stats.demolab.com?user=mertsparlak&locale=en&mode=daily&hide_border=true&border_radius=5&order=3" height="130" alt="streak graph" style="pointer-events: none;" /></a>
+  <a href="#"><img src="https://streak-stats.demolab.com?user=Glory42&locale=en&mode=daily&hide_border=true&border_radius=5&order=3" height="130" alt="streak graph" style="pointer-events: none;" /></a>
 </div>
