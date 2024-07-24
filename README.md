@@ -29,10 +29,13 @@
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
 
-###
-
 <div align="center">
- 
-  
-  <a href="#"><img src="https://streak-stats.demolab.com?user=Glory42&locale=en&mode=daily&hide_border=true&border_radius=5&order=3" height="130" alt="streak graph" style="pointer-events: none;" /></a>
+
+  ![GitHub Streak](https://streak-stats.demolab.com?user=Glory42&theme=default&hide_border=true&border_radius=5)
+
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Glory42&show_icons=true&theme=default&hide_border=true)
+
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Glory42&layout=compact&theme=default&hide_border=true)
+
 </div>
+
