@@ -25,14 +25,15 @@
   <a href="https://spring.io/projects/spring-framework" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> 
   </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+  </a>
 </p>
 
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-
-  ![GitHub Streak](https://streak-stats.demolab.com?user=Glory42&theme=default&hide_border=true&border_radius=5)
 
 
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Glory42&layout=compact&theme=default&hide_border=true)
