@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Görkem Karyol</h1>
-<h3 align="center">I'm a computer engineering student with a passion for backend development. Currently, I'm focused on building robust and scalable systems using Java and Spring Boot. If you share similar interests or have opportunities to collaborate, feel free to reach out! </h3>
+<h3 align="center">I'm a computer engineering student with a passion for backend development. Currently, I'm focused on building robust and scalable systems using Java and Spring Boot. If you share similar interests or have opportunities to collaborate, feel free to reach out!</h3>
 
 <!-- Tech Stack -->
 <h2 align="center">💻 Tech Stack</h2>
@@ -19,12 +19,13 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> 
   </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> 
+  </a> 
   <a href="https://spring.io/projects/spring-framework" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> 
   </a>
 </p>
-
-
 
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
