@@ -35,7 +35,7 @@
 
 <div align="center">
 
-
+  ![GitHub Streak](https://streak-stats.demolab.com?user=Glory42&theme=default&hide_border=true&border_radius=5)<br></br>
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Glory42&layout=compact&theme=default&hide_border=true)
 
 </div>
