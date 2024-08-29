@@ -29,14 +29,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
   </a>
 </p>
-
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 
-  ![GitHub Streak](https://streak-stats.demolab.com?user=Glory42&theme=default&hide_border=true&border_radius=5)<br></br>
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Glory42&layout=compact&theme=default&hide_border=true)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=Glory42&theme=default&hide_border=true&border_radius=5&v=1)<br></br>
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Glory42&layout=compact&theme=default&hide_border=true&v=1)
 
 </div>
 
