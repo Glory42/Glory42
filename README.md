@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Görkem Karyol</h1>
-<h3 align="center">I'm a computer engineering student with a passion for backend development. Currently, I'm focused on building robust and scalable systems using Java and Spring Boot. If you share similar interests or have opportunities to collaborate, feel free to reach out!</h3>
+<h3 align="center">"I'm a computer engineering student with a strong passion for backend development. I'm currently focused on mastering JavaScript, Node.js, and Express.js to build dynamic and efficient web applications. I have a solid understanding of databases, particularly PostgreSQL, and I'm honing my skills in API development and testing. If you're interested in collaborating on backend projects or discussing best practices, I'd love to connect!"</h3>
 
 <!-- Tech Stack -->
 <h2 align="center">💻 Tech Stack</h2>
