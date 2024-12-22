@@ -1,20 +1,28 @@
 <!-- Header -->
-<h2 align="left">Hey there 👋, I'm Görkem</h2>
+<h1 align="left">👋 Hello, I'm Görkem</h1>
+
+<!-- Sub-header -->
+<p align="left">
+  A <b>computer engineering student</b> passionate about <b>backend development</b> and building scalable web applications.
+</p>
 
 <!-- About Me -->
-<div>
-  <h3>About Me</h3>
+<section>
+  <h2>🚀 About Me</h2>
   <p>
-    I'm a passionate computer engineering student with a strong interest in backend development and software engineering. Currently, I'm focused on mastering JavaScript, Node.js, and Express.js to build dynamic web applications. I also have a solid understanding of databases, especially PostgreSQL, and I'm further developing my skills in API development and testing.
+    I’m currently mastering <b>JavaScript</b>, <b>Node.js</b>, and <b>Express.js</b> to bring dynamic web applications to life. With a strong understanding of databases like <b>PostgreSQL</b>, I’m also exploring advanced API development and testing practices.
   </p>
   <ul>
-    <li>🎓 Education: 3rd-year Computer Engineering student</li>
-    <li>💻 Current Focus: Backend development, JavaScript, Node.js, Express.js, and API development</li>
-    <li>🚀 Goals: To build scalable and efficient web applications and collaborate on backend projects</li>
+    <li>🎓 <b>Education:</b> 3rd-year Computer Engineering student</li>
+    <li>💻 <b>Focus:</b> Backend development, API design, and database management</li>
+    <li>🌟 <b>Goals:</b> To collaborate on innovative backend projects and deliver efficient solutions</li>
   </ul>
-</div>
+</section>
 
 <!-- GitHub Stats -->
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glory42&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
-</div>
+<section>
+  <h2 align="left">📊 GitHub Stats</h2>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glory42&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
+  </p>
+</section>
