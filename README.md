@@ -6,6 +6,4 @@
 - ⚙️ **I'm Mastering:** **JavaScript**, **Node.js**, **Express.js**.
 - 🚀 **Currently Working On:** Exploring advanced database management using **PostgreSQL**.
 
----
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=11161890147&unique={true|1|on|yes})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=11161890147&count=3)
