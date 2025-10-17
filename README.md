@@ -3,5 +3,5 @@
 #### I'm a computer engineering student.
 
 - 💻 **My Focus:** Backend development and building scalable web applications.
-- ⚙️ **I'm Mastering:** **JavaScript**, **Node.js**, **Express.js**.
-- 🚀 **Currently Working On:** Exploring advanced database management using **PostgreSQL**.
+- ⚙️ **I'm Mastering:** **TypeScript**, **Node.js**, **Express.js**.
+- 🚀 **Currently Working On:** Expanding my backend expertise with **TypeScript** and scalable app design.
