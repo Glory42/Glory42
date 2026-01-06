@@ -1,12 +1,9 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" alt="Hello There" width="400" />
-</div>
+### Hello there 👋
 
-> **General Kenobi!**
+> **General Kenobi!** You are a bold one.
 
+### 🪐 I'm a Computer Engineering Student (and Jedi in training).
 
-### 🪐 I'm a Computer Engineering Student seeking the High Ground in tech.
-
-- 🤖 **My Mission:** Backend development and scalable system architecture.
+- 🤖 **My Mission:** Bringing balance to the **Backend** and building scalable web applications.
 - ⚡ **Constructing my Lightsaber with:** **TypeScript**, **Node.js**, and **Express.js**.
 - 🌌 **Currently Exploring:** The Outer Rim of scalable app design and deepening my **TypeScript** knowledge.
