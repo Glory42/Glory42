@@ -1,7 +1,12 @@
-### Hello there 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" alt="Hello There" width="400" />
+</div>
 
-#### I'm a computer engineering student.
+> **General Kenobi!**
 
-- 💻 **My Focus:** Backend development and building scalable web applications.
-- ⚙️ **I'm Mastering:** **TypeScript**, **Node.js**, **Express.js**.
-- 🚀 **Currently Working On:** Expanding my backend expertise with **TypeScript** and scalable app design.
+
+### 🪐 I'm a Computer Engineering Student seeking the High Ground in tech.
+
+- 🤖 **My Mission:** Backend development and scalable system architecture.
+- ⚡ **Constructing my Lightsaber with:** **TypeScript**, **Node.js**, and **Express.js**.
+- 🌌 **Currently Exploring:** The Outer Rim of scalable app design and deepening my **TypeScript** knowledge.
